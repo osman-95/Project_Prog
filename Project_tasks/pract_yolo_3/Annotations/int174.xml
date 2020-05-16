@@ -1,0 +1,48 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>int174.jpg</filename>
+    <path>Annotations-PascalVOC-export/Annotations/int174.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>256</width>
+        <height>256</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>range hood</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>0</xmin>
+        <ymin>81.86214468573446</ymin>
+        <xmax>56.22598870056497</xmax>
+        <ymax>110.21017611228814</ymax>
+    </bndbox>
+</object><object>
+    <name>oven</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>0</xmin>
+        <ymin>132.19435248940678</ymin>
+        <xmax>63.45762711864407</xmax>
+        <ymax>244.1401174081921</ymax>
+    </bndbox>
+</object><object>
+    <name>ktichen sink</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>0</xmin>
+        <ymin>189.17966543079095</ymin>
+        <xmax>208.9582009180791</xmax>
+        <ymax>256</ymax>
+    </bndbox>
+</object>
+</annotation>

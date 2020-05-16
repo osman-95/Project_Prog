@@ -1,0 +1,37 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>1208_hall_entrada_010.jpg</filename>
+    <path>Annotations-PascalVOC-export/Annotations/1208_hall_entrada_010.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>640</width>
+        <height>482</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>ktichen sink</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>308.5276761968085</xmin>
+        <ymin>244.54012130478682</ymin>
+        <xmax>368.4425698138298</xmax>
+        <ymax>331.6813642426399</ymax>
+    </bndbox>
+</object><object>
+    <name>refrigerator</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>379.3361868351064</xmin>
+        <ymin>182.9966226351463</ymin>
+        <xmax>494.8085106382979</xmax>
+        <ymax>393.22488368837173</ymax>
+    </bndbox>
+</object>
+</annotation>

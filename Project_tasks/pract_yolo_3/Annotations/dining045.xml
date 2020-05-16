@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>dining045.jpg</filename>
+    <path>Annotations-PascalVOC-export/Annotations/dining045.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>256</width>
+        <height>256</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>ktichen sink</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>142.13786634887006</xmin>
+        <ymin>135.66554113700565</ymin>
+        <xmax>191.89152983757063</xmax>
+        <ymax>161.41017831920902</ymax>
+    </bndbox>
+</object>
+</annotation>

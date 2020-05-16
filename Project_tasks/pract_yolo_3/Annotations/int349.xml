@@ -1,0 +1,37 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>int349.jpg</filename>
+    <path>Annotations-PascalVOC-export/Annotations/int349.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>256</width>
+        <height>256</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>range hood</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>129.6994394420904</xmin>
+        <ymin>3.760452529131356</ymin>
+        <xmax>250.61242055084747</xmax>
+        <ymax>91.11864406779661</ymax>
+    </bndbox>
+</object><object>
+    <name>ktichen sink</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>0</xmin>
+        <ymin>109.92090395480226</ymin>
+        <xmax>66.06102136299435</xmax>
+        <ymax>161.98870056497174</ymax>
+    </bndbox>
+</object>
+</annotation>

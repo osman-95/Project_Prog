@@ -1,0 +1,37 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>int166.jpg</filename>
+    <path>Annotations-PascalVOC-export/Annotations/int166.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>256</width>
+        <height>256</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>range hood</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>197.96610169491527</xmin>
+        <ymin>71.73785090042372</ymin>
+        <xmax>256</xmax>
+        <ymax>123.2271252648305</ymax>
+    </bndbox>
+</object><object>
+    <name>oven</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>174.82485875706215</xmin>
+        <ymin>169.7988832980226</ymin>
+        <xmax>256</xmax>
+        <ymax>256</ymax>
+    </bndbox>
+</object>
+</annotation>

@@ -1,0 +1,48 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>apto_025.jpg</filename>
+    <path>Annotations-PascalVOC-export/Annotations/apto_025.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>640</width>
+        <height>480</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>range hood</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>289.016940876589</xmin>
+        <ymin>35.796612238479874</ymin>
+        <xmax>433.8305250264831</xmax>
+        <ymax>72.13559942730402</ymax>
+    </bndbox>
+</object><object>
+    <name>ktichen sink</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>545.5593716896186</xmin>
+        <ymin>210.440673828125</ymin>
+        <xmax>639.3898139565678</xmax>
+        <ymax>280.94914840439617</ymax>
+    </bndbox>
+</object><object>
+    <name>oven</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>294.98307567531776</xmin>
+        <ymin>207.72880942134532</ymin>
+        <xmax>445.76271186440675</xmax>
+        <ymax>296.1355849443856</ymax>
+    </bndbox>
+</object>
+</annotation>

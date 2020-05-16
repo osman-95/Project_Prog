@@ -1,0 +1,37 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>castell_casa_grande_ver_a_20000.jpg</filename>
+    <path>Annotations-PascalVOC-export/Annotations/castell_casa_grande_ver_a_20000.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>640</width>
+        <height>427</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>ktichen sink</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>313.2365729559378</xmin>
+        <ymin>176.5898415516999</ymin>
+        <xmax>399.1329119050424</xmax>
+        <ymax>218.08361950028416</ymax>
+    </bndbox>
+</object><object>
+    <name>range hood</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>86.43167191918002</xmin>
+        <ymin>0.48248771624376546</ymin>
+        <xmax>286.2130176425542</xmax>
+        <ymax>151.5005723339016</ymax>
+    </bndbox>
+</object>
+</annotation>

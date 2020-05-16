@@ -1,0 +1,37 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>cdMC1200.jpg</filename>
+    <path>Annotations-PascalVOC-export/Annotations/cdMC1200.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>256</width>
+        <height>256</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>refrigerator</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>186.97402454096044</xmin>
+        <ymin>39.05084745762712</ymin>
+        <xmax>249.74465925141243</xmax>
+        <ymax>176.45197740112997</ymax>
+    </bndbox>
+</object><object>
+    <name>oven</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>0</xmin>
+        <ymin>52.35706325035311</ymin>
+        <xmax>22.671190854519775</xmax>
+        <ymax>148.1039570091808</ymax>
+    </bndbox>
+</object>
+</annotation>

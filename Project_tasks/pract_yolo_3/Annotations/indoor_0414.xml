@@ -1,0 +1,48 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>indoor_0414.jpg</filename>
+    <path>Annotations-PascalVOC-export/Annotations/indoor_0414.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>352</width>
+        <height>512</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>ktichen sink</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>40.034585583847736</xmin>
+        <ymin>216.94915254237287</ymin>
+        <xmax>189.52591708461935</xmax>
+        <ymax>288.1084701624294</ymax>
+    </bndbox>
+</object><object>
+    <name>oven</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>144.33088188014403</xmin>
+        <ymin>184.55142125706215</ymin>
+        <xmax>290.92509403935185</xmax>
+        <ymax>354.63956567796606</ymax>
+    </bndbox>
+</object><object>
+    <name>range hood</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>173.88149032278807</xmin>
+        <ymin>115.70621468926554</ymin>
+        <xmax>245.15064380787038</xmax>
+        <ymax>170.66666666666666</ymax>
+    </bndbox>
+</object>
+</annotation>

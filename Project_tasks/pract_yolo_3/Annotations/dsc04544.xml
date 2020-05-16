@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>dsc04544.jpg</filename>
+    <path>Annotations-PascalVOC-export/Annotations/dsc04544.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>576</width>
+        <height>432</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>oven</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>66.32543117717161</xmin>
+        <ymin>217.70848574880827</ymin>
+        <xmax>248.88815048993644</xmax>
+        <ymax>432</ymax>
+    </bndbox>
+</object>
+</annotation>

@@ -1,0 +1,48 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>cimg2051.jpg</filename>
+    <path>Annotations-PascalVOC-export/Annotations/cimg2051.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>640</width>
+        <height>480</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>range hood</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>48.74575857388771</xmin>
+        <ymin>119.86441919359109</ymin>
+        <xmax>238.57628773834745</xmax>
+        <ymax>165.96611410884532</ymax>
+    </bndbox>
+</object><object>
+    <name>oven</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>38.44068624205509</xmin>
+        <ymin>247.32204631223516</ymin>
+        <xmax>229.89832991260593</xmax>
+        <ymax>480</ymax>
+    </bndbox>
+</object><object>
+    <name>ktichen sink</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>329.1525423728813</xmin>
+        <ymin>223.9999958620233</ymin>
+        <xmax>526.0339148569915</xmax>
+        <ymax>378.0339231329449</ymax>
+    </bndbox>
+</object>
+</annotation>

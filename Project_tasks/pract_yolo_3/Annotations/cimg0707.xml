@@ -1,0 +1,37 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>cimg0707.jpg</filename>
+    <path>Annotations-PascalVOC-export/Annotations/cimg0707.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>576</width>
+        <height>432</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>oven</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>279.6406705177437</xmin>
+        <ymin>139.60679083355404</ymin>
+        <xmax>325.0372955839513</xmax>
+        <ymax>296.78645557468224</ymax>
+    </bndbox>
+</object><object>
+    <name>ktichen sink</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>326.01355187367585</xmin>
+        <ymin>105.9254274529926</ymin>
+        <xmax>431.4508698027013</xmax>
+        <ymax>208.92203017412606</ymax>
+    </bndbox>
+</object>
+</annotation>

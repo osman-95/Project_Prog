@@ -1,0 +1,37 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>cdmc1146.jpg</filename>
+    <path>Annotations-PascalVOC-export/Annotations/cdmc1146.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>256</width>
+        <height>256</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>oven</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>95.85538047316385</xmin>
+        <ymin>95.16836599576271</ymin>
+        <xmax>163.54349841101697</xmax>
+        <ymax>181.36950476694915</ymax>
+    </bndbox>
+</object><object>
+    <name>ktichen sink</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>18.62146892655367</xmin>
+        <ymin>97.48248808262711</ymin>
+        <xmax>56.515249823446325</xmax>
+        <ymax>140.58305746822032</ymax>
+    </bndbox>
+</object>
+</annotation>

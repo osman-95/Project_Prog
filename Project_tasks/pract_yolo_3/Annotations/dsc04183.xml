@@ -1,0 +1,48 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>dsc04183.jpg</filename>
+    <path>Annotations-PascalVOC-export/Annotations/dsc04183.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>576</width>
+        <height>432</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>ktichen sink</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>345.0508474576271</xmin>
+        <ymin>219.66101694915255</ymin>
+        <xmax>429.49831998146186</xmax>
+        <ymax>271.4033823821504</ymax>
+    </bndbox>
+</object><object>
+    <name>oven</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>385.5661165916314</xmin>
+        <ymin>255.7830582958157</ymin>
+        <xmax>482.70506984904665</xmax>
+        <ymax>327.0508474576271</ymax>
+    </bndbox>
+</object><object>
+    <name>range hood</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>404.60341217558266</xmin>
+        <ymin>176.21696032507947</ymin>
+        <xmax>487.098334878178</xmax>
+        <ymax>197.69491525423732</ymax>
+    </bndbox>
+</object>
+</annotation>

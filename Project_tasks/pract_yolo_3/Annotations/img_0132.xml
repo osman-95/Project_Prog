@@ -1,0 +1,37 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>img_0132.jpg</filename>
+    <path>Annotations-PascalVOC-export/Annotations/img_0132.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>432</width>
+        <height>576</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>oven</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>3.0915403204449157</xmin>
+        <ymin>230.40000993114407</ymin>
+        <xmax>193.78984043961867</xmax>
+        <ymax>576</ymax>
+    </bndbox>
+</object><object>
+    <name>ktichen sink</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>168.40677966101697</xmin>
+        <ymin>176.37967591366527</ymin>
+        <xmax>254.9695113877119</xmax>
+        <ymax>266.8474576271187</ymax>
+    </bndbox>
+</object>
+</annotation>

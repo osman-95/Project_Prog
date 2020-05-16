@@ -1,0 +1,37 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>easyst029.jpg</filename>
+    <path>Annotations-PascalVOC-export/Annotations/easyst029.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>826</width>
+        <height>1200</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>ktichen sink</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>270.65494883574496</xmin>
+        <ymin>482.71189544160484</ymin>
+        <xmax>487.75556485217203</xmax>
+        <ymax>630.5084745762712</ymax>
+    </bndbox>
+</object><object>
+    <name>ktichen sink</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>609.8746613614123</xmin>
+        <ymin>454.2372881355932</ymin>
+        <xmax>826</xmax>
+        <ymax>577.6271496788929</ymax>
+    </bndbox>
+</object>
+</annotation>

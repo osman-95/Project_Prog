@@ -1,0 +1,59 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>im6.jpg</filename>
+    <path>Annotations-PascalVOC-export/Annotations/im6.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>300</width>
+        <height>200</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>oven</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>140.93221028645834</xmin>
+        <ymin>96.4971768653999</ymin>
+        <xmax>215.508481472899</xmax>
+        <ymax>200</ymax>
+    </bndbox>
+</object><object>
+    <name>refrigerator</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1.0451968780345162</xmin>
+        <ymin>50.39547850183175</ymin>
+        <xmax>65.45198084944386</xmax>
+        <ymax>200</ymax>
+    </bndbox>
+</object><object>
+    <name>range hood</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>146.12994005451094</xmin>
+        <ymin>64.18079440876589</ymin>
+        <xmax>202.17514469125177</xmax>
+        <ymax>84.06779833432645</ymax>
+    </bndbox>
+</object><object>
+    <name>ktichen sink</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>228.16386249779308</xmin>
+        <ymin>108.92655539647335</ymin>
+        <xmax>300</xmax>
+        <ymax>171.75141242937855</ymax>
+    </bndbox>
+</object>
+</annotation>

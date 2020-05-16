@@ -1,0 +1,37 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>dscf2952.jpg</filename>
+    <path>Annotations-PascalVOC-export/Annotations/dscf2952.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>640</width>
+        <height>480</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>ktichen sink</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>194.10168663930085</xmin>
+        <ymin>208.27119471663136</ymin>
+        <xmax>394.2372881355932</xmax>
+        <ymax>341.6949152542373</ymax>
+    </bndbox>
+</object><object>
+    <name>oven</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>380.6779661016949</xmin>
+        <ymin>77.01695329051907</ymin>
+        <xmax>560.7457461599577</xmax>
+        <ymax>467.5254485566737</ymax>
+    </bndbox>
+</object>
+</annotation>

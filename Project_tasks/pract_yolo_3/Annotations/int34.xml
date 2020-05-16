@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>int34.jpg</filename>
+    <path>Annotations-PascalVOC-export/Annotations/int34.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>256</width>
+        <height>256</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>ktichen sink</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>58.540121822033896</xmin>
+        <ymin>150.70735125353107</ymin>
+        <xmax>141.5593220338983</xmax>
+        <ymax>193.51864848163842</ymax>
+    </bndbox>
+</object>
+</annotation>

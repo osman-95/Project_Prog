@@ -1,0 +1,37 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>hpim2830.jpg</filename>
+    <path>Annotations-PascalVOC-export/Annotations/hpim2830.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>640</width>
+        <height>480</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>ktichen sink</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>21.084749900688557</xmin>
+        <ymin>258.1695039393538</ymin>
+        <xmax>427.3220256223517</xmax>
+        <ymax>409.4915254237288</ymax>
+    </bndbox>
+</object><object>
+    <name>range hood</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>348.135593220339</xmin>
+        <ymin>104.13559735831568</ymin>
+        <xmax>544.4745597192797</xmax>
+        <ymax>151.32204217425846</ymax>
+    </bndbox>
+</object>
+</annotation>

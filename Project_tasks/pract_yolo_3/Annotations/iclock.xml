@@ -1,0 +1,37 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>iclock.jpg</filename>
+    <path>Annotations-PascalVOC-export/Annotations/iclock.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>256</width>
+        <height>256</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>ktichen sink</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>49.86215572033898</xmin>
+        <ymin>115.12768140889831</ymin>
+        <xmax>107.71526306497175</xmax>
+        <ymax>149.83954581567798</ymax>
+    </bndbox>
+</object><object>
+    <name>range hood</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>133.17061705508473</xmin>
+        <ymin>2.3141248455155368</ymin>
+        <xmax>174.24633651129943</xmax>
+        <ymax>92.27571062853107</ymax>
+    </bndbox>
+</object>
+</annotation>

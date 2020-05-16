@@ -1,0 +1,37 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>indoor_0301.jpg</filename>
+    <path>Annotations-PascalVOC-export/Annotations/indoor_0301.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>340</width>
+        <height>512</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>oven</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>0</xmin>
+        <ymin>199.01469809322035</ymin>
+        <xmax>125.42921999667554</xmax>
+        <ymax>492.3299346751412</ymax>
+    </bndbox>
+</object><object>
+    <name>ktichen sink</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>146.8420124459774</xmin>
+        <ymin>137.6903910663842</ymin>
+        <xmax>266.0590248919548</xmax>
+        <ymax>201.907353460452</ymax>
+    </bndbox>
+</object>
+</annotation>

@@ -1,0 +1,37 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>dsc02719.jpg</filename>
+    <path>Annotations-PascalVOC-export/Annotations/dsc02719.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>341</width>
+        <height>512</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>oven</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>17.71967446879976</xmin>
+        <ymin>281.1661149364407</ymin>
+        <xmax>222.75407821104528</xmax>
+        <ymax>512</ymax>
+    </bndbox>
+</object><object>
+    <name>range hood</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>20.03645613036591</xmin>
+        <ymin>101.82147113347457</ymin>
+        <xmax>231.44197630021728</xmax>
+        <ymax>165.45990024717514</ymax>
+    </bndbox>
+</object>
+</annotation>

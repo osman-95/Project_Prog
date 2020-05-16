@@ -1,0 +1,37 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>casas_073.jpg</filename>
+    <path>Annotations-PascalVOC-export/Annotations/casas_073.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>576</width>
+        <height>432</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>ktichen sink</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>198.61016949152543</xmin>
+        <ymin>181.09831625728285</ymin>
+        <xmax>370.92204879502117</xmax>
+        <ymax>278.72541628045553</ymax>
+    </bndbox>
+</object><object>
+    <name>oven</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>45.335604392876064</xmin>
+        <ymin>234.79323151152013</ymin>
+        <xmax>180.549167439089</xmax>
+        <ymax>432</ymax>
+    </bndbox>
+</object>
+</annotation>

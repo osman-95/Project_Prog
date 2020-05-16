@@ -1,0 +1,48 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>gagerman1.jpg</filename>
+    <path>Annotations-PascalVOC-export/Annotations/gagerman1.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>256</width>
+        <height>256</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>oven</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>195.07344632768363</xmin>
+        <ymin>120.33446989759886</ymin>
+        <xmax>240.19888771186442</xmax>
+        <ymax>175.87345515536722</ymax>
+    </bndbox>
+</object><object>
+    <name>ktichen sink</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>87.75593661723164</xmin>
+        <ymin>111.94576491878531</ymin>
+        <xmax>121.5999955861582</xmax>
+        <ymax>149.55028469279662</ymax>
+    </bndbox>
+</object><object>
+    <name>ktichen sink</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>31.638418079096045</xmin>
+        <ymin>109.05310955155367</ymin>
+        <xmax>80.52429819915254</xmax>
+        <ymax>137.11186882062148</ymax>
+    </bndbox>
+</object>
+</annotation>

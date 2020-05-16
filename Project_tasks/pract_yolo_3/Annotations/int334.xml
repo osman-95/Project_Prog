@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>int334.jpg</filename>
+    <path>Annotations-PascalVOC-export/Annotations/int334.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>256</width>
+        <height>256</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>refrigerator</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>36.26667328742938</xmin>
+        <ymin>86.77966101694915</ymin>
+        <xmax>118.12881797316385</xmax>
+        <ymax>188.0225988700565</ymax>
+    </bndbox>
+</object>
+</annotation>

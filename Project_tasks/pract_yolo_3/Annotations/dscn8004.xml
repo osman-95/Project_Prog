@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>dscn8004.jpg</filename>
+    <path>Annotations-PascalVOC-export/Annotations/dscn8004.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>432</width>
+        <height>576</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>oven</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>23.267826403601696</xmin>
+        <ymin>142.53560315148306</ymin>
+        <xmax>431.34916247351697</xmax>
+        <ymax>576</ymax>
+    </bndbox>
+</object>
+</annotation>

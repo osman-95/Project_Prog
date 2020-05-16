@@ -1,0 +1,37 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>dsc01012.jpg</filename>
+    <path>Annotations-PascalVOC-export/Annotations/dsc01012.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>384</width>
+        <height>512</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>range hood</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>68.1220427259887</xmin>
+        <ymin>108.18531514830508</ymin>
+        <xmax>153.74465925141243</xmax>
+        <ymax>155.046323269774</ymax>
+    </bndbox>
+</object><object>
+    <name>refrigerator</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>2.169491525423729</xmin>
+        <ymin>238.93332891949152</ymin>
+        <xmax>95.31298552259886</xmax>
+        <ymax>512</ymax>
+    </bndbox>
+</object>
+</annotation>

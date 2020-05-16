@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>indoor_0421.jpg</filename>
+    <path>Annotations-PascalVOC-export/Annotations/indoor_0421.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>494</width>
+        <height>512</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>refrigerator</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>239.45076866764273</xmin>
+        <ymin>104.71412650070621</ymin>
+        <xmax>340.1313045831236</xmax>
+        <ymax>286.951425670904</ymax>
+    </bndbox>
+</object>
+</annotation>

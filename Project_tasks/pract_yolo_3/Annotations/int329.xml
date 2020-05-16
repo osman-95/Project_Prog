@@ -1,0 +1,37 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>int329.jpg</filename>
+    <path>Annotations-PascalVOC-export/Annotations/int329.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>256</width>
+        <height>256</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>oven</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>119.86440677966101</xmin>
+        <ymin>87.64745542019774</ymin>
+        <xmax>219.37175582627117</xmax>
+        <ymax>169.7988832980226</ymax>
+    </bndbox>
+</object><object>
+    <name>oven</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>139.82373322740114</xmin>
+        <ymin>24.29830398128531</ymin>
+        <xmax>218.21468926553672</xmax>
+        <ymax>87.35819429731639</ymax>
+    </bndbox>
+</object>
+</annotation>

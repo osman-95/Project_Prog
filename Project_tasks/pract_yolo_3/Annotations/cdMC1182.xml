@@ -1,0 +1,48 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>cdMC1182.jpg</filename>
+    <path>Annotations-PascalVOC-export/Annotations/cdMC1182.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>256</width>
+        <height>256</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>oven</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>174.5355976341808</xmin>
+        <ymin>91.9864384710452</ymin>
+        <xmax>240.48812676553672</xmax>
+        <ymax>203.93220338983053</ymax>
+    </bndbox>
+</object><object>
+    <name>ktichen sink</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>25.56384622175141</xmin>
+        <ymin>110.21017611228814</ymin>
+        <xmax>101.06214689265536</xmax>
+        <ymax>142.89717955508473</ymax>
+    </bndbox>
+</object><object>
+    <name>range hood</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>178.87458068502823</xmin>
+        <ymin>69.13446769067797</ymin>
+        <xmax>246.85200388418076</xmax>
+        <ymax>86.49039989406779</ymax>
+    </bndbox>
+</object>
+</annotation>

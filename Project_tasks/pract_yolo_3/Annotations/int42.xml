@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>int42.jpg</filename>
+    <path>Annotations-PascalVOC-export/Annotations/int42.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>256</width>
+        <height>256</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>refrigerator</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>19.778535487288135</xmin>
+        <ymin>88.51526085805085</ymin>
+        <xmax>75.60679290254237</xmax>
+        <ymax>161.1209171963277</ymax>
+    </bndbox>
+</object>
+</annotation>
