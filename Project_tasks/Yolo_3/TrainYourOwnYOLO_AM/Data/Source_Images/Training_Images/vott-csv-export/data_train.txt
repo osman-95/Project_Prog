@@ -1,0 +1,262 @@
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/003.jpg 101,131,160,174,0
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000106949b.jpg 197,2,393,131,1 191,305,387,560,2 637,377,798,519,0 69,2,191,598,3
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/100_2855.jpg 213,240,482,391,0
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/007330543a.jpg 14,253,274,582,2 389,178,521,262,0
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/2335_1.jpg 280,144,513,452,2 84,121,292,207,0 296,1,516,32,1
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/aa041720.jpg 110,132,191,161,0
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/aa014484.jpg 48,99,107,205,2
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/2326_1.jpg 421,240,581,456,2 145,236,258,325,0
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/1208_hall_entrada_010.jpg 309,245,368,332,0 379,183,495,393,3
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/apto_flavia_015.jpg 119,193,213,402,3 8,234,100,295,0
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/casas_073.jpg 199,181,371,279,0 45,235,181,432,2
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/apartments_ind_2_043.jpg 257,277,351,465,2 362,232,491,271,0 197,1,341,149,1
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/a__4_.jpg 95,288,220,431,2 435,281,575,351,0
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/apto_025.jpg 289,36,434,72,1 546,210,639,281,0 295,208,446,296,2
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/cdmc1119.jpg 173,95,229,192,2
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/cdMC1122.jpg 83,139,144,165,0
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/cdMC1121.jpg 36,117,112,224,2 36,14,105,65,1
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/castell_casa_grande_ver_a_20000.jpg 313,177,399,218,0 86,0,286,152,1
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/cdmc1126.jpg 108,118,176,148,0
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/cdmc1123.jpg 39,121,109,205,2 41,65,114,92,1 219,130,256,161,0
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/cdMC1125.jpg 8,103,47,130,0 234,65,256,185,2
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/cdMC1127.jpg 40,85,155,238,2
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/cdMC1133.jpg 167,127,232,243,2 25,128,109,150,0
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/cdMC1136.jpg 50,30,124,99,1 52,119,122,211,2 204,117,238,161,0
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/cdMC1138.jpg 147,96,190,134,0
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/cdMC1135.jpg 225,142,256,251,2 122,41,198,117,1
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/cdMC1137.jpg 68,132,132,165,0
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/cdMC1139.jpg 95,122,152,161,0 173,121,237,168,0
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/cdMC1142.jpg 124,125,178,150,0
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/cdmc1146.jpg 96,95,164,181,2 19,97,57,141,0
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/cdmc1144.jpg 184,86,251,194,2 48,103,102,130,0
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/cdmc1145.jpg 1,107,63,142,0
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/cdMC1148.jpg 216,85,256,181,2
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/cdMC1149.jpg 183,46,231,133,2 98,86,160,143,0
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/cdmc1151.jpg 74,45,122,126,2 186,81,255,119,0
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/cdMC1150.jpg 205,99,256,143,0 21,58,45,245,2
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/cdMC1155.jpg 183,80,227,112,0
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/cdMC1157.jpg 148,108,197,195,2
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/cdMC1154.jpg 198,57,245,155,2 49,76,112,106,0
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/cdMC1156.jpg 195,78,256,121,0
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/cdMC1158.jpg 1,95,57,185,2
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/cdmc1164.jpg 153,107,210,146,0
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/cdMC1163.jpg 10,98,96,140,0
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/cdMC1162.jpg 42,152,167,204,0
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/cdmc1167.jpg 166,83,220,134,2
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/cdmc1172.jpg 170,128,216,224,2
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/cdMC1177.jpg 175,73,229,174,2
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/cdmc1175.jpg 186,80,246,116,0
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/cdMC1174.jpg 170,107,236,205,2
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/cdMC1176.jpg 203,86,254,140,2 83,70,154,104,0
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/cdMC1180.jpg 54,105,124,137,0 8,132,83,205,2
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/cdMC1179.jpg 163,80,250,213,2 28,102,116,140,0
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/cdMC1181.jpg 1,54,23,159,2 36,91,82,115,0
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/cdMC1182.jpg 175,92,240,204,2 26,110,101,143,0 179,69,247,86,1
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/cdMC1185.jpg 97,106,133,161,2
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/cdMC1183.jpg 97,103,159,130,0 144,125,160,180,2
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/cdMC1186.jpg 144,98,216,126,0
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/cdMC1187.jpg 6,36,95,87,0
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/cdMC1189.jpg 150,74,203,169,2
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/cdMC1192.jpg 229,58,256,142,2 77,23,161,63,1 174,92,216,126,0
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/cdMC1188.jpg 1,91,87,167,0
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/cdMC1193.jpg 10,70,190,148,0 61,145,237,251,0
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/cdmc1194.jpg 81,113,134,148,0
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/cdMC1216.jpg 51,88,202,255,2
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/cdMC1200.jpg 187,39,250,176,3 0,52,23,148,2
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/cdMC1198.jpg 138,36,256,85,1 138,107,249,224,2 19,97,65,138,0
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/cdMC1199.jpg 177,125,256,202,0
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/cdMC1223.jpg 1,37,256,256,0
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/cdMC1217.jpg 59,81,171,222,2
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/cdMC1225.jpg 30,56,229,197,2
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/cdMC1218.jpg 29,1,226,60,1 16,137,215,256,2
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/cdMC1224.jpg 2,2,256,256,0
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/cdMC1280.jpg 78,82,162,253,2
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/cdMC1283.jpg 61,4,203,255,2
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/cdMC1226.jpg 32,34,240,161,2
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/cimg0707.jpg 280,140,325,297,2 326,106,431,209,0
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/cdmc1299.jpg 44,127,114,242,2 120,111,191,146,0
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/cimg2051.jpg 49,120,239,166,1 38,247,230,480,2 329,224,526,378,0
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/cosinha_e_area_de_servico__2_.jpg 41,270,358,478,2 111,0,307,98,1
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/D55.jpg 215,93,256,154,2 111,88,156,121,0
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/dining043.jpg 182,54,225,145,3
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/dining045.jpg 142,136,192,161,0
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/cozinha2.jpg 88,268,287,512,2 228,289,376,468,0
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/D55b.jpg 102,113,180,167,0
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/dsc01012.jpg 68,108,154,155,1 2,239,95,512,3
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/dining047.jpg 170,102,223,180,2 93,107,151,138,0
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/dsc00911.jpg 411,82,521,475,3 3,381,218,480,2 50,197,230,345,0 2,44,210,118,1
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/dsc01023.jpg 6,273,267,492,0 227,302,428,633,2
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/dsc02730.jpg 242,193,384,328,0 194,23,259,149,1
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/dsc04183.jpg 345,220,429,271,0 386,256,483,327,2 405,176,487,198,1
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/dsc02719.jpg 18,281,223,512,2 20,102,231,165,1
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/dsc01464.jpg 5,72,163,402,3 142,104,286,194,2
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/dsc04540.jpg 365,150,635,480,3
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/dscn8004.jpg 23,143,431,576,2
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/dscf2952.jpg 194,208,394,342,0 381,77,561,468,2
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/dsc04544.jpg 66,218,249,432,2
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/easyst029.jpg 271,483,488,631,0 610,454,826,578,0
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/foto9.jpg 302,112,358,255,3 177,129,239,169,0
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/gama14.jpg 458,227,602,377,0 334,93,503,206,2
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/gagerman1.jpg 195,120,240,176,2 88,112,122,150,0 32,109,81,137,0
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/hpim2830.jpg 21,258,427,409,0 348,104,544,151,1
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/im6.jpg 141,96,216,200,2 1,50,65,200,3 146,64,202,84,1 228,109,300,172,0
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/ICHAIR.jpg 65,141,154,185,0
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/im4.jpg 175,96,228,199,2
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/iclock.jpg 50,115,108,150,0 133,2,174,92,1
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/im8.jpg 86,75,168,185,2
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/imgp4130.jpg 197,31,327,322,3 459,132,593,208,0 485,179,534,391,2 515,33,640,93,1
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/img_0014.jpg 955,371,2177,780,1 173,868,1149,1412,2
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/img_0015.jpg 2,312,566,795,1 2082,2,2592,1944,3
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/img_0054.jpg 81,208,370,576,2 121,2,357,143,1
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/img_0017.jpg 285,180,503,284,0
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/img_0033.jpg 216,100,397,195,0 2,129,113,335,2
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/img_0037.jpg 17,37,204,115,1 53,212,183,441,2 185,180,273,292,0
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/img_0016.jpg 1054,872,2210,1505,0
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/img_0116.jpg 160,142,314,211,0 1,96,118,384,3 330,146,428,266,2
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/img_0073.jpg 116,149,310,232,0 31,238,191,384,2
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/img_0083.jpg 1,148,36,341,2 447,11,512,341,3 132,113,200,155,0
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/img_0064.jpg 224,176,382,378,2 209,4,425,82,1
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/IMG_0087.jpg 314,545,1194,1536,2 279,156,1112,378,1 946,213,1678,1375,3
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/img_0128.jpg 46,160,203,369,2 332,130,430,199,0
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/img_0132.jpg 3,230,194,576,2 168,176,255,267,0
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/img_0138.jpg 0,184,159,279,0 112,182,236,359,2 121,66,242,126,1
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/img_0373.jpg 192,187,351,423,3 358,280,501,447,2 375,193,502,281,2 85,309,241,392,0
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/img_0224.jpg 1862,767,2570,1944,2 1004,903,1722,1180,0
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/img_0586.jpg 16,1,239,198,1 77,211,200,269,0 175,202,301,260,2 401,218,480,450,2
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/IMG_3994.jpg 791,142,1390,1428,3
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/IMG_2433.jpg 74,297,1643,1470,0
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/IMG_2431.jpg 1850,384,2048,1109,2
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/IMG_3734.jpg 189,885,1254,1944,2 235,376,1252,694,1 1766,1068,2592,1698,0
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/indoor_0008.jpg 55,87,162,210,2 58,45,142,68,1 0,40,37,225,3
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/indoor_0015.jpg 168,90,237,184,2 176,62,243,81,1 245,39,300,191,3
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/img_6613.jpg 204,148,499,373,0 3,259,346,432,2
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/IMG_9003.jpg 733,624,1241,903,0 1100,565,1801,1248,2
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/indoor_0018.jpg 1,87,133,225,2 0,17,111,72,2 183,98,300,183,0
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/indoor_0030.jpg 3,98,114,209,2
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/indoor_0042.jpg 201,67,258,217,3 45,99,95,190,2
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/indoor_0029.jpg 39,59,180,268,3 125,119,290,203,0 184,189,300,268,2
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/indoor_0048.jpg 135,77,234,124,0 252,39,300,225,3 174,109,237,225,2
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/indoor_0051.jpg 0,45,85,89,2 3,95,90,212,2 157,106,249,180,0
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/indoor_0076.jpg 81,89,168,194,2 94,51,158,75,1
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/indoor_0080.jpg 195,122,300,225,2
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/indoor_0079.jpg 0,96,92,248,3 184,127,270,250,2 188,85,275,120,1 106,136,174,177,0
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/indoor_0092.jpg 114,68,205,189,2 4,106,139,200,0 209,33,275,217,3 109,35,199,64,1
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/indoor_0116.jpg 160,77,293,225,2 81,90,158,138,0
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/indoor_0096.jpg 15,73,139,225,3
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/indoor_0094.jpg 41,109,174,225,2 273,48,300,225,3
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/indoor_0113.jpg 182,82,225,197,3
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/indoor_0111.jpg 190,95,284,240,2 87,81,218,163,0
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/indoor_0129.jpg 81,60,150,181,3 196,109,300,225,2
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/indoor_0122.jpg 8,153,75,204,0 159,164,225,300,2
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/indoor_0143.jpg 135,103,295,225,2 29,113,101,170,0
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/indoor_0118.jpg 101,92,185,225,2 217,55,300,225,3 129,24,202,59,1 30,91,90,131,0
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/indoor_0150.jpg 92,56,191,210,2 235,23,300,211,3 3,102,91,190,0 87,18,195,48,1
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/indoor_0178.jpg 44,109,175,225,2
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/indoor_0164.jpg 15,71,111,300,3
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/indoor_0179.jpg 12,149,142,300,3
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/indoor_0152.jpg 23,87,100,153,2 238,48,292,225,3
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/indoor_0161.jpg 183,38,274,191,3
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/indoor_0191.jpg 120,122,225,298,2 86,108,163,161,0 155,28,225,66,1
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/indoor_0201.jpg 202,90,259,181,2 236,104,300,149,0
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/indoor_0187.jpg 59,39,130,225,3
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/indoor_0193.jpg 198,30,288,220,3 32,90,131,224,2 26,22,82,54,1 241,93,299,157,0
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/indoor_0205.jpg 4,78,88,224,3 4,78,88,224,0 47,121,138,155,0 88,120,198,253,2 112,84,208,113,1
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/indoor_0250.jpg 207,291,399,357,0
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/indoor_0223.jpg 0,16,85,298,3 58,152,108,297,2
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/indoor_0207.jpg 91,59,180,213,3 19,110,103,150,0 261,141,300,225,2
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/indoor_0248.jpg 13,70,109,296,3 181,153,225,257,2
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/indoor_0251.jpg 466,111,624,375,3 235,187,377,277,2
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/indoor_0259.jpg 209,154,336,312,2 455,97,521,319,3 292,156,377,194,0 215,106,277,142,1
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/indoor_0263.jpg 267,103,381,296,3 178,171,306,308,2 174,95,284,134,1 89,169,172,221,0
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/indoor_0252.jpg 232,54,544,429,3 481,75,603,330,2
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/indoor_0262.jpg 205,156,260,262,2 122,141,190,186,0 224,80,260,131,1
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/indoor_0253.jpg 102,35,706,179,1 126,260,746,600,2
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/indoor_0273.jpg 227,143,401,202,0 3,133,153,300,2 0,93,99,130,1
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/indoor_0272.jpg 323,89,444,282,3 24,140,179,196,0 158,142,234,244,2
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/indoor_0282.jpg 209,36,239,261,3 228,99,307,245,2 345,100,401,162,0
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/indoor_0283.jpg 245,151,363,340,2 0,70,213,340,3
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/indoor_0301.jpg 0,199,125,492,2 147,138,266,202,0
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/indoor_0318.jpg 2,217,112,376,2 240,137,340,337,3 103,197,177,238,0
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/indoor_0300.jpg 160,203,348,417,2 464,224,512,329,0
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/indoor_0302.jpg 192,102,372,340,2 0,16,112,340,3
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/indoor_0319.jpg 1,150,173,356,2 330,64,465,310,3 194,146,273,187,0
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/indoor_0336.jpg 416,76,481,223,2
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/indoor_0329.jpg 228,154,373,340,2 0,226,141,334,0
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/indoor_0320.jpg 299,118,460,340,2 319,32,458,65,1
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/indoor_0321.jpg 412,92,512,393,2
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/indoor_0353.jpg 220,155,353,221,0 306,225,456,340,2 453,65,512,340,3
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/indoor_0374.jpg 77,152,196,307,2 195,158,318,229,0 388,101,480,328,3
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/indoor_0365.jpg 0,204,135,340,2
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/indoor_0360.jpg 66,160,175,201,0 411,165,512,289,2 438,54,512,104,1
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/indoor_0362.jpg 266,71,359,106,1 339,85,493,320,3 261,174,387,327,2
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/indoor_0383.jpg 166,55,330,293,2 396,104,512,257,0 174,0,324,39,1
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/indoor_0398.jpg 108,116,297,200,0 433,187,492,421,2
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/indoor_0382.jpg 93,182,255,353,2 128,127,237,157,1 336,185,512,310,0
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/indoor_0412.jpg 368,288,463,511,2 380,209,463,253,1 212,301,318,348,0 0,226,139,465,3
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/indoor_0413.jpg 45,145,178,354,3 218,223,340,297,0
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/indoor_0423.jpg 74,114,318,458,3 225,200,494,347,0
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/indoor_0422.jpg 135,87,453,270,0 12,0,254,390,3
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/indoor_0424.jpg 268,86,445,393,3 343,193,512,315,0 0,221,173,393,2
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/indoor_0414.jpg 40,217,190,288,0 144,185,291,355,2 174,116,245,171,1
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/indoor_0421.jpg 239,105,340,287,3
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/indoor_0425.jpg 29,230,297,506,2
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/indoor_0437.jpg 178,127,240,219,3
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/indoor_0426.jpg 126,109,449,364,2
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/indoor_0438.jpg 0,127,68,314,2 88,118,183,168,0
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/indoor_0439.jpg 109,67,214,99,1 114,131,225,270,2 239,124,332,167,0
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/indoor_0440.jpg 11,175,174,242,0
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/indoor_0459.jpg 4,302,140,510,2 251,265,400,424,0
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/indoor_0457.jpg 345,351,757,600,0 166,19,414,121,1
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/indoor_0456.jpg 9,185,152,591,3 215,302,397,372,0 537,164,682,231,1 536,313,690,546,2
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/indoor_0460.jpg 421,238,532,434,2 655,133,783,420,3 186,238,340,324,0
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/indoor_0499.jpg 48,1,313,138,1 591,220,800,330,0 80,293,335,540,2
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/indoor_0482.jpg 310,207,658,507,0 60,216,298,511,2
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/indoor_0506.jpg 0,103,172,600,3 354,227,504,471,2 363,108,542,191,1
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/indoor_0468.jpg 272,128,386,526,3 20,256,119,320,0
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/indoor_0464.jpg 188,195,383,289,0 501,211,670,457,2
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/indoor_0511.jpg 35,303,201,566,2
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/indoor_0514.jpg 345,2,642,122,1 385,197,585,488,2 0,200,225,320,0
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/indoor_0519.jpg 20,35,315,576,3 0,393,253,600,2
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/indoor_0521.jpg 351,310,613,600,2 352,102,647,191,1 0,327,230,439,0
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/indoor_0522.jpg 281,183,480,261,1 179,325,334,399,0
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/indoor_0524.jpg 351,376,800,600,0
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/indoor_0523.jpg 79,101,185,238,3
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/indoor_0529.jpg 98,303,341,461,0 501,343,799,600,2
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/indoor_0534.jpg 442,96,624,600,3 362,355,487,597,2 176,309,378,395,0
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/indoor_0535.jpg 0,180,131,576,2 336,277,432,564,2 366,177,432,237,1
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/indoor_0538.jpg 491,273,800,600,2
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/indoor_0539.jpg 85,131,306,581,3 653,321,800,600,2
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/indoor_0542.jpg 394,194,643,600,2 75,266,306,345,0
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/indoor_0561.jpg 0,68,278,600,3 212,201,466,498,2 549,205,800,394,0
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/indoor_0558.jpg 592,150,800,600,2 215,313,506,397,0
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/indoor_0543.jpg 186,2,461,277,2
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/indoor_0549.jpg 0,1,525,567,2
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/indoor_0568.jpg 560,271,617,370,2
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/indoor_0562.jpg 81,271,206,487,2
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/indoor_0563.jpg 15,131,431,576,2
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/indoor_0564.jpg 127,375,209,457,2 243,364,349,451,2
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/indoor_0583.jpg 192,306,287,478,2
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/indoor_0579.jpg 80,252,161,328,0 217,217,318,380,3
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/indoor_0577.jpg 216,184,569,504,0
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/indoor_0581.jpg 570,252,756,600,3 404,342,578,531,2
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/indoor_0587.jpg 432,307,752,540,0 283,85,477,197,1
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/int166.jpg 198,72,256,123,1 175,170,256,256,2
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/int174.jpg 0,82,56,110,1 0,132,63,244,2 0,189,209,256,0
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/int22.jpg 78,150,144,231,2
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/int329.jpg 120,88,219,170,2 140,24,218,87,2
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/int332.jpg 241,74,256,183,2
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/int330.jpg 83,121,162,190,2
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/int333.jpg 142,126,235,170,0
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/int334.jpg 36,87,118,188,3
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/int340.jpg 140,129,237,210,0
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/int341.jpg 21,94,103,238,3 168,91,236,112,1 170,148,236,188,2
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/int34.jpg 59,151,142,194,0
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/int335.jpg 10,132,109,169,0
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/int336.jpg 179,132,225,182,2
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/int345.jpg 97,84,207,224,2 3,113,128,175,0
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/int347.jpg 48,121,123,163,0
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/int348.jpg 33,16,151,104,1 196,100,256,194,2
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/int35.jpg 86,133,154,158,0
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/int349.jpg 130,4,251,91,1 0,110,66,162,0
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/int42.jpg 20,89,76,161,3
+/content/drive/My Drive/Project_tasks/Yolo_3/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/int71.jpg 208,113,256,192,2
