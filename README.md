@@ -70,6 +70,12 @@ The output of testing of each model with the sample data set is shown below:
 - Object Detection
   - Mobilenet v2
   - Yolo v3 (Model_1)
+  
+    ![image 1](https://raw.githubusercontent.com/osman-95/Project_Prog/master/Project_tasks/pract_yolo_3/output/p1010843.jpg)
+    ![image 2](https://raw.githubusercontent.com/osman-95/Project_Prog/master/Project_tasks/pract_yolo_3/output/rimg0408.jpg)
+    ![image 3](https://raw.githubusercontent.com/osman-95/Project_Prog/master/Project_tasks/pract_yolo_3/output/p1000395.jpg)
+
+    
   - Yolo v3 (Model_2)
 - Classification
   - Classification_1
