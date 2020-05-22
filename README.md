@@ -39,7 +39,12 @@ Currently going through this [paper](http://vision.stanford.edu/pdf/Fei-Fei_Li_I
 ## Data selection and preprocessing
 The dataset was selected from [Kaggle](https://www.kaggle.com/itsahmad/indoor-scenes-cvpr-2019?) provided by MIT. It consists of  67 categories/classes and a total of 15620 images of indoor scenes. The number of images varies across categories, but there are at least 100 images per category and All images are in jpg format.
 
+![Dataset](https://raw.githubusercontent.com/osman-95/Project_Prog/master/ReadMe_img/Capture1.PNG)
+
 Only 6 categories were chosen to work on due to the time and Hardware limitations. 
+
+![Selected categories](https://raw.githubusercontent.com/osman-95/Project_Prog/master/ReadMe_img/Capture2.PNG)
+
 
 The sample dataset for object detection consisted of 300 images of kitchen with four labels shown below
 - oven
