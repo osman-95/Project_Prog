@@ -83,9 +83,10 @@ The output of testing of each model with the sample data set is shown below:
     ![](https://raw.githubusercontent.com/osman-95/Project_Prog/master/Project_tasks/Yolo_3/TrainYourOwnYOLO_AM/Data/Source_Images/Test_Image_Detection_Results/N364071_catface.jpg)
     
 - Classification
-  - Classification_1
-  - Classification_2
-
+  - Classification_1 (Mobilenet v2)
+    ![]()
+  - Classification_2 (CNN from scratches)
+    ![]()
 
 ## Implementation of Desired Data with the desired Algorithm
 
