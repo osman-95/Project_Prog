@@ -13,15 +13,19 @@ The work was borken into the following structure
 
 Before Elaboring the above sections a quick overview on the file hierarchy is shown below
 - Understanding_concept
-  - Mobilenetv2
-  - YoloV3 ()
-  - YoloV3 ()
-  - classification_model_1 ()
-  - classification_model_2 ()
+  - Object Detection
+    - Mobilenetv2
+    - YoloV3 ()
+    - YoloV3 ()
+  - Classification
+    - classification_model_1 ()
+    - classification_model_2 ()
   
 - Implemnetation_Final_Model
   - **_Currently under progress_**
-  
+
+**NOTE:** Classification model were mainly implemented for undersanding purpose the concept of classification only. the results might be used for comparison later when the final model is built for evaluation and jsutifucaiton.
+
 ## Research
 After the research done so far the two pretrained Models were chosen to perform object detection in realtime
 - Yolo V3
@@ -37,4 +41,44 @@ The dataset was selected from [Kaggle](https://www.kaggle.com/itsahmad/indoor-sc
 
 Only 6 categories were chosen to work on due to the time and Hardware limitations. 
 
-The sample Data consisted of only one class "Kitchen" with selection of only 300 images was used to test the Pretrained moedl before executing the main dataset.
+The sample dataset for object detection consisted of 300 images of kitchen with four labels shown below
+- oven
+- refrigerator
+- range hood
+- kitchen sink
+
+The sample data used for classification consisted of 6 indoor categories listed below
+- bedroom
+- bar
+- bakery
+- bathroom
+- auditorium
+- artstudio
+
+## Understanding and Testing of the Algorithm(pretrained models)
+
+The selected pretrained models for classification and object detection were tested with respective the sample dataset.
+Detailed explaination of the model is presented in their corresponding ReadMe file
+
+The output of testing of each model with the sample data set is shown below:
+
+- Object Detection
+  - Mobilenet v2
+  - Yolo v3 (Model_1)
+  - Yolo v3 (Model_2)
+- Classification
+  - Classification_1
+  - Classification_2
+
+
+## Implementation of Desired Data with the desired Algorithm
+
+> **_yet to be updated_**
+
+> **_work under progress_**
+
+## Testing and evaluation of the Project output
+
+> **_yet to be updated_**
+
+> **_work under progress_**
