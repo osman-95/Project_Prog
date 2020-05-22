@@ -77,6 +77,11 @@ The output of testing of each model with the sample data set is shown below:
 
     
   - Yolo v3 (Model_2)
+  
+    ![](https://raw.githubusercontent.com/osman-95/Project_Prog/master/Project_tasks/Yolo_3/TrainYourOwnYOLO_AM/Data/Source_Images/Test_Image_Detection_Results/VA-02-04-7657-02_l_catface.jpg)
+    ![](https://raw.githubusercontent.com/osman-95/Project_Prog/master/Project_tasks/Yolo_3/TrainYourOwnYOLO_AM/Data/Source_Images/Test_Image_Detection_Results/N364080_catface.jpg)
+    ![](https://raw.githubusercontent.com/osman-95/Project_Prog/master/Project_tasks/Yolo_3/TrainYourOwnYOLO_AM/Data/Source_Images/Test_Image_Detection_Results/N364071_catface.jpg)
+    
 - Classification
   - Classification_1
   - Classification_2
