@@ -84,9 +84,12 @@ The output of testing of each model with the sample data set is shown below:
     
 - Classification
   - Classification_1 (Mobilenet v2)
-    ![]()
+  
+    ![](https://raw.githubusercontent.com/osman-95/Project_Prog/master/ReadMe_img/Capture3.PNG)
+    
   - Classification_2 (CNN from scratches)
-    ![]()
+  
+    ![](https://raw.githubusercontent.com/osman-95/Project_Prog/master/ReadMe_img/Capture4.PNG)
 
 ## Implementation of Desired Data with the desired Algorithm
 
