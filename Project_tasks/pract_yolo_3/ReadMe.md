@@ -21,8 +21,12 @@ The **Content file** contains all the necessary folder, packages and codes requi
 - It contains the image folder required for training and evaluation 
 - Weights required to initiate the training 
 - The configuration file of the model which is used to tune various parameters in the model like
-   - The number of steps 
+   - The number of epochs 
    - batch size
+   - image min and max size
+   - learning rate
+   - Train image directory
+   - ...
 - The folder that saves checkpoints of the training
 - Output folder that stores the results of the evalution
 
@@ -52,9 +56,9 @@ The data was trained for 50 epochs with batch size of 16 and object threshhold a
 
 sample of the output
 
-![]()
-![]()
-![]()
+ ![image 1](https://raw.githubusercontent.com/osman-95/Project_Prog/master/Project_tasks/pract_yolo_3/output/p1010843.jpg)
+ ![image 2](https://raw.githubusercontent.com/osman-95/Project_Prog/master/Project_tasks/pract_yolo_3/output/rimg0408.jpg)
+ ![image 3](https://raw.githubusercontent.com/osman-95/Project_Prog/master/Project_tasks/pract_yolo_3/output/p1000395.jpg)
 
 
 
