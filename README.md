@@ -12,17 +12,22 @@ The work was borken into the following structure
 5. **Testing and evaluation of the Project output**
 
 Before Elaboring the above sections a quick overview on the file hierarchy is shown below
-- Understanding_concept
-  - Object Detection
-    - Mobilenetv2
-    - YoloV3 ()
-    - YoloV3 ()
-  - Classification
-    - classification_model_1 ()
-    - classification_model_2 ()
-  
-- Implemnetation_Final_Model
-  - **_Currently under progress_**
+         
+ ```
+ 
+├── Understanding_concept
+│   ├──  Object Detection
+|   |    ├── Mobilenetv2
+|   |    ├── YoloV3 ()
+|   |    └── YoloV3 ()
+│   └──  Classification
+|        ├──classification_model_1 ()
+|        └── classification_model_2 ()       
+└── Implemnetation_Final_Model
+     └── Currently under progress
+
+```        
+
 
 **NOTE:** Classification model were mainly implemented for undersanding purpose the concept of classification only. the results might be used for comparison later when the final model is built for evaluation and jsutifucaiton.
 
